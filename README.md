@@ -1,4 +1,4 @@
 # kaggle-ML-
 Code for a Kaggle machine learning competition .
-![image](screenshots/rank .png)
-![image](screenshots/score.png)
+![image](https://github.com/2207030112/kaggle-ML-/blob/main/screenshots/rank%20.png)
+![image](https://github.com/2207030112/kaggle-ML-/blob/main/screenshots/score.png)
